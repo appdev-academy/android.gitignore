@@ -1,3 +1,7 @@
+# Mac OS X files
+.DS_Store
+
+# Standard .gitignore file from GitHub for Android
 # Built application files
 *.apk
 *.ap_
