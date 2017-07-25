@@ -1,6 +1,9 @@
 # Mac OS X files
 .DS_Store
 
+# Android Studio files
+.idea
+
 # Standard .gitignore file from GitHub for Android
 # Built application files
 *.apk
